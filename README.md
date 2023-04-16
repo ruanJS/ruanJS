@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/ruanJS">
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username-ruanJS&show_icons=true&theme=dark&include_ali_commits=true&count_private=true"/>
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-ruanJS&layout=compact&langs_count=16&theme=dark"/>
+  <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=ruanJS&show_icons=true&theme=dark&include_ali_commits=true&count_private=true"/>
+  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&layout=compact&langs_count=16&theme=dark"/>
 </div>  
 
 <div style="display: inline_block"><br>
