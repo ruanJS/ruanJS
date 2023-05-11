@@ -1,6 +1,6 @@
 ## Olá! Prazer Ruan Guedes.
 
-- 💻 Desenvolvedor Front-End.
+- 💻 DEV Front-End Júnior.
 - 📚 Faculdade FIAP
 - ⚡ Just Do It
 
