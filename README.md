@@ -31,6 +31,10 @@
 <!--   <a href="https://ruanjs.github.io/meu-portfolio/" target="_blank"><img src="https://img.favi.icon R/-Portfólio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"></a> -->
   
 </div>
+   <a href="https://www.linkedin.com/in/ruan-guedes-807578248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  
+</div>
 
 <svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"></svg>
 
