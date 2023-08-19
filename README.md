@@ -27,7 +27,7 @@
   <a href="https://instagram.com/ruanguedes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rguedesruan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-guedes-807578248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://ruanjs.github.io/meu-portfolio/" target="_blank"><img src="https://ruanjs.github.io/meu-portfolio/components/images/icon.jpeg?style=for-the-badge&logo=portfolio&logoColor=DarkOrange" target="_blank"></a>
+  <a href="https://ruanjs.github.io/meu-portfolio/" target="_blank"><img src="![favi icon R](https://github.com/ruanJS/ruanJS/assets/125290791/e06cc14a-9847-434e-a451-9029a41a924b)?style=for-the-badge&logo=portfolio&logoColor=DarkOrange" target="_blank"></a>
   
 </div>
 
