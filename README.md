@@ -27,6 +27,8 @@
   <a href="https://instagram.com/ruanguedes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rguedesruan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruan-guedes-807578248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://ruanjs.github.io/meu-portfolio/" target="_blank"><img src="https://ruanjs.github.io/meu-portfolio/components/images/icon.jpeg?style=for-the-badge&logo=portfolio&logoColor=DarkOrange" target="_blank"></a>
+  
 </div>
 
 <svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"></svg>
