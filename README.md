@@ -1,34 +1,88 @@
-<img src="https://raw.github.com/elizarov/elizarov/master/about.png">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hii!+My+name+is+Ruan+Guedes;I'm+19+years+old;I'm+from+Brazil;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+19+years+old!;+I'm+Ruan+Guedes!;Be+welcome!!!;" />
+</h1>
 
-- 📚 Faculdade FIAP
-- 💻 FullStack
-- ⚡ Just Do It
+<div align="center">
+ 
+   📚 Faculdade FIAP
+ 
+   💻 Software Developer
+ 
+   ⚡ Just Do It
 
-<div>
-  <a href="https://github.com/ruanJS">
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=ruanJS&show_icons=true&theme=dark&include_ali_commits=true&count_private=true"/>
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&layout=compact&langs_count=16&theme=dark"/>
-</div>  
+ </div>
+ 
+<div align="center"> 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ruan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="mailto:rguedesruan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ruan-guedes-807578248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ruanguedes-alpha.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+
 </div>
 
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-##
-
-
-<div>
-  <a href="https://instagram.com/ruanguedes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rguedesruan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruan-guedes-807578248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!--   <a href="https://ruanjs.github.io/meu-portfolio/" target="_blank"><img src="https://img.favi.icon R/-Portfólio-%23333?style=for-the-badge&logo=portfolio&logoColor=orange" target="_blank"></a> -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ruanjs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"></svg>
+<br/><br/>
+<hr/>  
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+ &nbsp;
+ &nbsp;
+ 
+
+## My Skills
+
+#### Main Stack:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,flask,figma,netlify,vercel" /><br>
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Studying in this moment:
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+#### Databases:
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+
+#### Workstation Tools:
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<img src="https://skillicons.dev/icons?i=instagram,linkedin,discord" />
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
