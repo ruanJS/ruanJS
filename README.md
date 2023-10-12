@@ -1,7 +1,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Olá!, Prazer Ruan Guedes.
 
-- 💻 DEV Front-End.
 - 📚 Faculdade FIAP
+- 💻 FullStack
 - ⚡ Just Do It
 
 <div>
