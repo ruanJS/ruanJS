@@ -6,7 +6,7 @@
  
    📚 Faculdade FIAP
  
-   💻 Software Developer
+   💻 Full-Stack Developer
  
    ⚡ Just Do It
 
