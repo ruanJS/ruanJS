@@ -24,6 +24,18 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
+  <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ruanJS&count_private=true&theme=react&border_radius=10" alt="readme stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=react" alt="readme stats"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>  
+
 </div> 
 
 ## My Skills
@@ -56,18 +68,6 @@
 
 <div> 
 <img src="https://skillicons.dev/icons?i=instagram,linkedin,discord" />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ruanJS&count_private=true&theme=react&border_radius=10" alt="readme stats"/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=react" alt="readme stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>  
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
