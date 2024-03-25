@@ -2,16 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+19+years+old!;+I'm+Ruan+Guedes!;Be+welcome!!!;" />
 </h1>
 
-<div align="center">
- 
-   📚 Faculdade FIAP
- 
-   💻 Full-Stack Developer
- 
-   ⚡ Just Do It
-
- </div>
- 
 <div align="center"> 
 
   <a href="mailto:rguedesruan@gmail.com">
@@ -24,7 +14,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
-  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=ruanJS&count_private=true&theme=react&border_radius=10" alt="readme stats"/>
