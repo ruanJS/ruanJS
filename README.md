@@ -77,4 +77,4 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C404F7&center=true&random=false&width=435&lines=Thanks+you+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+a+me+message+on+Linkedin;I'am+always+down+to+collab">
 </h3>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C404F7&height=120&section=footer"/>
