@@ -1,25 +1,27 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C404F7&height=120&section=header"/>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+19+years+old!;+I'm+Ruan+Guedes!;Be+welcome!!!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=C404F7&center=true&random=false&width=435&lines=I'm+Ruan+Guedes;Known+as+devguedess;I'am+from+19+Years+Old;Be+welcome!!!;" />
 </h1>
 
 <div align="center"> 
 
   <a href="mailto:rguedesruan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-333333?style=plastic&logo=Gmail&logoColor=%23EA4335&labelColor=%230000">
+  </a> 
   <a href="https://linkedin.com/in/ruan-guedes-807578248/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=%23FFF&labelColor=%230000">
   </a>
-  <a href="https://ruanguedes-alpha.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://devguedess.vercel.app" target="_blank">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Devguedess-8A2BE2?style=plastic&logo=altiumdesigner&logoColor=%23FFF&labelColor=%230000"> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ruanJS&count_private=true&theme=react&border_radius=10" alt="readme stats"/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=react" alt="readme stats"/>
+  <img src="https://streak-stats.demolab.com?user=ruanJS&theme=midnight-purple&hide_border=true&locale=pt_BR&card_width=460&card_height=170&fundo=#000000" alt="GitHub Streak"/> 
+    <img width=405 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&hide_border=true&theme=midnight-purple" alt="readme stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -31,8 +33,8 @@
 
 #### Main Stack:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,flask,figma,netlify,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,nextjs,flask,netlify,vercel" /><br>
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -56,7 +58,9 @@
 ## Contacts:
 
 <div> 
-<img src="https://skillicons.dev/icons?i=instagram,linkedin,discord" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=discord" />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -70,7 +74,7 @@
  &nbsp;
 
  <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=C404F7&center=true&random=false&width=435&lines=Thanks+you+for+visiting+%E2%9C%8C%EF%B8%8F;Shoot+a+me+message+on+Linkedin;I'am+always+down+to+collab">
 </h3>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
