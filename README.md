@@ -22,6 +22,7 @@
     <img width=405 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&hide_border=true&theme=midnight-purple" alt="readme stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 <br/><br/>
@@ -34,34 +35,29 @@
 #### Main Stack:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,nextjs,flask,netlify,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,nextjs,flask,netlify,vercel" /><br>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=aws,docker,c,swift" />
 
 #### Databases:
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-
-#### Workstation Tools:
-
-<img src="https://skillicons.dev/icons?i=vscode,eclipse" />
-
-&nbsp;
-&nbsp;
-
 ## Contacts:
 
 <div> 
-<img src="https://skillicons.dev/icons?i=linkedin" />
-<img src="https://skillicons.dev/icons?i=instagram" />
-<img src="https://skillicons.dev/icons?i=discord" />
-
+    <a href="https://linkedin.com/in/ruan-guedes-807578248/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>  
+    <a href="https://www.instagram.com/devguedess_/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="https://devguedess.vercel.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=htmx" />
+    </a>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
