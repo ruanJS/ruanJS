@@ -17,12 +17,13 @@
   </a>
 
 <br>
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=ruanJS&theme=midnight-purple&hide_border=true&locale=pt_BR&card_width=460&card_height=170&fundo=#000000" alt="GitHub Streak"/> 
+<div align=start>
+<!--   <img src="https://streak-stats.demolab.com?user=ruanJS&theme=midnight-purple&hide_border=true&locale=pt_BR&card_width=460&card_height=170&fundo=#000000" alt="GitHub Streak"/>  -->
     <img width=405 src="https://github-readme-stats.vercel.app/api?username=ruanJS&count_private=true&show_icons=true&rank_icon=github&hide_border=true&theme=midnight-purple" alt="readme stats"/>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanJS&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 </div>
 
 <br/><br/>
@@ -34,8 +35,8 @@
 
 #### Main Stack:
 <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,nextjs,flask,netlify,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,nextjs" /><br>
 </div>
 
 
