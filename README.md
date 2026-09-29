@@ -27,7 +27,7 @@ I turn ideas into reliable, intuitive, and maintainable web experiences.
 
 ## About
 
-I'm a full-stack developer focused on creating modern web applications with clear interfaces, solid architecture, and attention to detail. I enjoy working across the entire product—from frontend experience to backend implementation.
+I'm a full-stack developer focused on building modern web applications with clean interfaces, solid architecture, and attention to detail. I enjoy working across the entire product, from crafting seamless frontend experiences to designing and implementing reliable backend solutions.
 
 ## Technologies
 
