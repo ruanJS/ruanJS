@@ -1,63 +1,49 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C404F7&height=120&section=header"/>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=ffffff&center=true&random=false&width=400&lines=I'm+Ruan+Guedes;Be+welcome!" />
-</h1>
+# Ruan Guedes
 
-<table align="center" cellpadding="0" cellspacing="10" style="margin: auto;">
-  <tr>
-    <td>
-      <a href="mailto:rguedesruan@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/ruan-guedes-807578248/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/devguedess_/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://devguedess.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### Full-stack developer building thoughtful digital products.
 
----
+I turn ideas into reliable, intuitive, and maintainable web experiences.
 
-## 🚀 Tech Stack
+<br />
 
-### Main:
-![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Nextjs](https://skillicons.dev/icons?i=nextjs)
-![Nodejs](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
+<a href="https://devguedess.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/ruan-guedes-807578248/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rguedesruan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/devguedess_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-### Databases:
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+</div>
 
-### Currently Learning:
+<br />
+
+## About
+
+I'm a full-stack developer focused on creating modern web applications with clear interfaces, solid architecture, and attention to detail. I enjoy working across the entire product—from frontend experience to backend implementation.
+
+## Technologies
+
+| Area | Stack |
+| --- | --- |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Vue](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
+| **Databases** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+
+## Currently exploring
+
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![C](https://skillicons.dev/icons?i=c)
 ![Swift](https://skillicons.dev/icons?i=swift)
 
----
+## Contact
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=ffffff&center=true&random=false&width=435&lines=Thanks+for+visiting+%E2%9C%8C%EF%B8%8F;Let's+connect+and+collaborate!" />
-</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C404F7&height=120&section=footer"/>
+Have a project in mind or want to exchange ideas? Reach me through [LinkedIn](https://linkedin.com/in/ruan-guedes-807578248/) or send an [email](mailto:rguedesruan@gmail.com).
